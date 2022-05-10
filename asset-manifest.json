@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.def302a8.css",
-    "main.js": "/static/js/main.56bfa4ce.js",
+    "main.js": "/static/js/main.c80e8bd9.js",
     "static/js/787.91694bba.chunk.js": "/static/js/787.91694bba.chunk.js",
     "static/media/songhwa4.jpg": "/static/media/songhwa4.1a46d5a172943e6ade99.jpg",
     "static/media/jegook3.jpg": "/static/media/jegook3.468555abd7511f33db04.jpg",
+    "static/media/yiyiyo2.jpg": "/static/media/yiyiyo2.8b9225e136a3c2f666ce.jpg",
     "static/media/igyeong1.jpg": "/static/media/igyeong1.59cdc6c4289ed44c3b8e.jpg",
     "static/media/songhwa3.jpg": "/static/media/songhwa3.adb8c567ab25388d2047.jpg",
     "static/media/daemyeong1.jpg": "/static/media/daemyeong1.5c131e16acfc179adc3c.jpg",
+    "static/media/yiyiyo1.jpg": "/static/media/yiyiyo1.c046ce51a7b21d3187ac.jpg",
     "static/media/mable1.jpg": "/static/media/mable1.7a11d7605d07a04cc3bb.jpg",
     "static/media/hayeon2.jpg": "/static/media/hayeon2.c3670a1e1d6c1998b253.jpg",
     "static/media/whygo3.jpg": "/static/media/whygo3.e6f0abf686b7ec2d2717.jpg",
@@ -18,18 +20,26 @@
     "static/media/songgye2.jpg": "/static/media/songgye2.e7dbbd62b23dad70e512.jpg",
     "static/media/spaka2.jpg": "/static/media/spaka2.192206ba1cf809323ab5.jpg",
     "static/media/sinbal2.jpg": "/static/media/sinbal2.e3f48ac08507dde7bf91.jpg",
+    "static/media/yuz2.jpg": "/static/media/yuz2.4a9fd51891a298ac306a.jpg",
     "static/media/songgye1.jpg": "/static/media/songgye1.a11639fdb8dab0045360.jpg",
     "static/media/spaka3.jpg": "/static/media/spaka3.7c22180e6e66d5bdd57b.jpg",
+    "static/media/yuz3.jpg": "/static/media/yuz3.e0ec2d75f6babe84b11c.jpg",
     "static/media/songhwa2.jpg": "/static/media/songhwa2.71a9a4be0d409abeb7fc.jpg",
     "static/media/spaka1.jpg": "/static/media/spaka1.13ee5ff41673e0074f85.jpg",
+    "static/media/moon3.jpg": "/static/media/moon3.661cdf9accb4c86e5adc.jpg",
     "static/media/spaka4.jpg": "/static/media/spaka4.c889a47a83c456e72229.jpg",
+    "static/media/moon1.jpg": "/static/media/moon1.4e6b8326f0a35a5f6d6b.jpg",
     "static/media/sinbal1.jpg": "/static/media/sinbal1.bb98ed8cb678cec8c1fd.jpg",
+    "static/media/moon2.jpg": "/static/media/moon2.7d499ba8a00f6d6a1004.jpg",
     "static/media/jegook4.jpg": "/static/media/jegook4.0b6ca2aa8cdae40aa076.jpg",
+    "static/media/jinmy1.jpg": "/static/media/jinmy1.37cbc91211db9c5e2433.jpg",
     "static/media/chunmichun1.jpg": "/static/media/chunmichun1.d5ac74ac82b2e37d00be.jpg",
     "static/media/jegook1.jpg": "/static/media/jegook1.158b031b634b2f5c34c9.jpg",
+    "static/media/moon4.jpg": "/static/media/moon4.757b58377f76e753bf8a.jpg",
     "static/media/mexicali3.jpg": "/static/media/mexicali3.ff1fb825b11844929579.jpg",
     "static/media/jegook2.jpg": "/static/media/jegook2.4956cef5057bfe8b86ba.jpg",
     "static/media/hayeon1.jpg": "/static/media/hayeon1.6a841bf7b4e8bcf59765.jpg",
+    "static/media/jinmy2.jpg": "/static/media/jinmy2.261dfd479072278e5fe0.jpg",
     "static/media/mexicali2.jpg": "/static/media/mexicali2.9248ffbc5184dd730468.jpg",
     "static/media/whygo4.jpg": "/static/media/whygo4.efa426a72f73f022b961.jpg",
     "static/media/songhwa1.jpg": "/static/media/songhwa1.5131b8aaacf2a4cd1cd7.jpg",
@@ -40,11 +50,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.def302a8.css.map": "/static/css/main.def302a8.css.map",
-    "main.56bfa4ce.js.map": "/static/js/main.56bfa4ce.js.map",
+    "main.c80e8bd9.js.map": "/static/js/main.c80e8bd9.js.map",
     "787.91694bba.chunk.js.map": "/static/js/787.91694bba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.def302a8.css",
-    "static/js/main.56bfa4ce.js"
+    "static/js/main.c80e8bd9.js"
   ]
 }
