@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.def302a8.css",
-    "main.js": "/static/js/main.c80e8bd9.js",
+    "main.css": "/static/css/main.d8be1c98.css",
+    "main.js": "/static/js/main.0caef074.js",
     "static/js/787.91694bba.chunk.js": "/static/js/787.91694bba.chunk.js",
     "static/media/songhwa4.jpg": "/static/media/songhwa4.1a46d5a172943e6ade99.jpg",
     "static/media/jegook3.jpg": "/static/media/jegook3.468555abd7511f33db04.jpg",
@@ -15,6 +15,7 @@
     "static/media/whygo3.jpg": "/static/media/whygo3.e6f0abf686b7ec2d2717.jpg",
     "static/media/whygo2.jpg": "/static/media/whygo2.142f55b4fac5f4e5ac8b.jpg",
     "static/media/mexicali5.jpg": "/static/media/mexicali5.bae7db84492f4931d4c1.jpg",
+    "static/media/sangmi2.jpg": "/static/media/sangmi2.738eecafdc8bd5539fea.jpg",
     "static/media/mexicali4.jpg": "/static/media/mexicali4.6e4c101b6fb82b1ea8d4.jpg",
     "static/media/mexicali1.jpg": "/static/media/mexicali1.24b207d2ee6d9fbf87cc.jpg",
     "static/media/songgye2.jpg": "/static/media/songgye2.e7dbbd62b23dad70e512.jpg",
@@ -24,7 +25,9 @@
     "static/media/songgye1.jpg": "/static/media/songgye1.a11639fdb8dab0045360.jpg",
     "static/media/spaka3.jpg": "/static/media/spaka3.7c22180e6e66d5bdd57b.jpg",
     "static/media/yuz3.jpg": "/static/media/yuz3.e0ec2d75f6babe84b11c.jpg",
+    "static/media/sangmi1.jpg": "/static/media/sangmi1.5d322082c1e8e33df4d5.jpg",
     "static/media/songhwa2.jpg": "/static/media/songhwa2.71a9a4be0d409abeb7fc.jpg",
+    "static/media/songhwa6.jpg": "/static/media/songhwa6.0ccc36d1520c2290ff44.jpg",
     "static/media/spaka1.jpg": "/static/media/spaka1.13ee5ff41673e0074f85.jpg",
     "static/media/moon3.jpg": "/static/media/moon3.661cdf9accb4c86e5adc.jpg",
     "static/media/spaka4.jpg": "/static/media/spaka4.c889a47a83c456e72229.jpg",
@@ -41,20 +44,22 @@
     "static/media/hayeon1.jpg": "/static/media/hayeon1.6a841bf7b4e8bcf59765.jpg",
     "static/media/jinmy2.jpg": "/static/media/jinmy2.261dfd479072278e5fe0.jpg",
     "static/media/mexicali2.jpg": "/static/media/mexicali2.9248ffbc5184dd730468.jpg",
+    "static/media/songhwa5.jpg": "/static/media/songhwa5.6105dd24ad51727efcac.jpg",
     "static/media/whygo4.jpg": "/static/media/whygo4.efa426a72f73f022b961.jpg",
     "static/media/songhwa1.jpg": "/static/media/songhwa1.5131b8aaacf2a4cd1cd7.jpg",
+    "static/media/songhwa7.jpg": "/static/media/songhwa7.566a31d66ec5ae16f56b.jpg",
     "static/media/KangSeonggon_cv.pdf": "/static/media/KangSeonggon_cv.5e7cb730a9fb4a2605f8.pdf",
     "static/media/7298265.png": "/static/media/7298265.3f3fcc32f4d6b92cd80b.png",
     "static/media/rhino.png": "/static/media/rhino.bbf25020408562cdb277.png",
     "static/media/flamingo.png": "/static/media/flamingo.b437afd129c78badd4f0.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.def302a8.css.map": "/static/css/main.def302a8.css.map",
-    "main.c80e8bd9.js.map": "/static/js/main.c80e8bd9.js.map",
+    "main.d8be1c98.css.map": "/static/css/main.d8be1c98.css.map",
+    "main.0caef074.js.map": "/static/js/main.0caef074.js.map",
     "787.91694bba.chunk.js.map": "/static/js/787.91694bba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.def302a8.css",
-    "static/js/main.c80e8bd9.js"
+    "static/css/main.d8be1c98.css",
+    "static/js/main.0caef074.js"
   ]
 }
